@@ -1,0 +1,537 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Project Initialization": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666054196
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666074254
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666334590
+      }
+    ],
+    "1.2 Configuration Files": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055150
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666074488
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666334962
+      }
+    ],
+    "1.3 Utility Modules (Part 1: Config & Device)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055265
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666340266
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666572280
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666691939
+      }
+    ],
+    "1.4 Data Loading & Schema Validation": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055385
+      },
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666340424
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666572608
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666692354
+      }
+    ],
+    "1.5 Data Audit": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055473
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666697306
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666876346
+      }
+    ],
+    "1.6 Chronological Splits": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055582
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666697642
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666876671
+      }
+    ],
+    "1.7 Data Audit Report (data_audit.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055662
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666881609
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666950211
+      }
+    ],
+    "1.8 Verify Cleaning Script for Leakage (smoke test)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055745
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666881949
+      },
+      {
+        "executionId": "80440277-bcab-4b1a-ae65-583a1a1d6234",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666950487
+      }
+    ],
+    "2.1 Preprocessor Module (Scaling & Differencing)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055821
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667029978
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667388923
+      }
+    ],
+    "2.2 Window Generation & Origin Manifests": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055899
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667030355
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667389376
+      }
+    ],
+    "2.3 Unit Tests for Preprocessing": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666055979
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667394755
+      }
+    ],
+    "2.4 Unit Tests for Splits & Windows": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056071
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667395139
+      }
+    ],
+    "2.5 Preprocessing Artifacts & Checksums": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056153
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667400469
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667737347
+      }
+    ],
+    "2.6 Data Exploration for EDA Context": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056233
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667400849
+      },
+      {
+        "executionId": "6b56560b-7b69-424c-9c9f-24fcd95631c3",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790667736992
+      }
+    ],
+    "3.1 Base Model Adapter Class": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056311
+      }
+    ],
+    "3.2 DLinear & NLinear Implementation": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056391
+      }
+    ],
+    "3.3 PatchTST Implementation": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056458
+      }
+    ],
+    "3.4 iTransformer Implementation": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056534
+      }
+    ],
+    "3.5 Training & Checkpoint Logic": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056607
+      }
+    ],
+    "3.6 Unit Tests for Models": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056701
+      }
+    ],
+    "3.7 Unit Tests for Trainer": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056819
+      }
+    ],
+    "3.8 Model Validation & Fidelity Smoke Test": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056898
+      }
+    ],
+    "4.1 Accuracy Metrics (MAE, MSE, Per-Lead)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666056979
+      }
+    ],
+    "4.2 DTW Implementation (Sakoe–Chiba Constrained)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057070
+      }
+    ],
+    "4.3 Unit Tests for DTW": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057151
+      }
+    ],
+    "4.4 Diebold–Mariano Statistical Test": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057229
+      }
+    ],
+    "4.5 Unit Tests for Statistical Testing": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057307
+      }
+    ],
+    "4.6 Computational Profiling Metrics": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057392
+      }
+    ],
+    "5.1 Run Orchestrator & Resume Logic": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057475
+      }
+    ],
+    "5.2 Experiment 1 (Horizon Sweep)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057552
+      }
+    ],
+    "5.3 Experiment 2 (Lookback Sweep)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057649
+      }
+    ],
+    "5.4 Experiment 3A & 3B (Representation & Temporal Shift)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057734
+      }
+    ],
+    "5.5 Baseline Models": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057816
+      }
+    ],
+    "6.1 EDA Plots (Plots A–E)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057897
+      }
+    ],
+    "6.2 Result Plots (Experiments)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666057977
+      }
+    ],
+    "6.3 Plot Data Export": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058063
+      }
+    ],
+    "6.4 Diagnostic Plots (Training Curves, Hyperparameter Sensitivity)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058155
+      }
+    ],
+    "7.1 Data Audit Report (data_audit.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058245
+      }
+    ],
+    "7.2 EDA Interpretation Report (eda_interpretation.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058384
+      }
+    ],
+    "7.3 Methodology Report (methodology.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058472
+      }
+    ],
+    "7.4 Experiment 1 Report (experiment_1_horizon.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058554
+      }
+    ],
+    "7.5 Experiment 2 Report (experiment_2_lookback.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058641
+      }
+    ],
+    "7.6 Experiment 3A & 3B Report (experiment_3_stationarity_shift.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058726
+      }
+    ],
+    "7.7 Statistical Analysis Report (statistical_analysis.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058810
+      }
+    ],
+    "7.8 Computational Efficiency Report (computational_efficiency.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666058902
+      }
+    ],
+    "7.9 Reproducibility Report (reproducibility.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059006
+      }
+    ],
+    "7.10 Final Report (final_report.md)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059111
+      }
+    ],
+    "8.1 End-to-End Smoke Test": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059206
+      }
+    ],
+    "8.2 Validation Checklist (10 items)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059293
+      }
+    ],
+    "8.3 Data Integrity Tests": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059380
+      }
+    ],
+    "8.4 Model Correctness & Learning Tests": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059469
+      }
+    ],
+    "9.1 Run Experiment 1 (Horizon Sweep)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059554
+      }
+    ],
+    "9.2 Run Experiment 2 (Lookback Sweep)": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059648
+      }
+    ],
+    "9.3 Run Experiment 3A & 3B": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059736
+      }
+    ],
+    "10.1 Generate All Markdown Reports": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059821
+      }
+    ],
+    "10.2 Final Quality Assurance & Packaging": [
+      {
+        "executionId": "68be0977-295c-4966-8759-0be48d55e93e",
+        "chatSessionId": "sess_015ca4d1-55f0-49f2-ae2c-1d419fd1832f",
+        "timestamp": 1790666059910
+      }
+    ]
+  }
+}

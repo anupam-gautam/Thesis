@@ -1,0 +1,114 @@
+{
+  "file_path": "DataSet\\CLEAN_smartgrid_5yr_hourly_natural.csv",
+  "md5_checksum": "f1d8af8fbd7eb8bdc85dd9633e42355d",
+  "row_count": 43848,
+  "column_count": 7,
+  "audit_timestamp": "2026-09-29T13:11:19.186840",
+  "columns": {
+    "timestamp": {
+      "dtype": "datetime64[us]",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "temperature": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "is_rain_day": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "holiday_type_national": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "holiday_type_religious": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "is_lockdown": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    },
+    "load_kw": {
+      "dtype": "int64",
+      "null_count": 0,
+      "null_percentage": 0.0
+    }
+  },
+  "timestamp_range": {
+    "first": "2020-01-01T00:00:00",
+    "last": "2024-12-31T23:00:00",
+    "timezone": null
+  },
+  "frequency_check": {
+    "expected_hourly_rows": 43848,
+    "actual_rows": 43848,
+    "coverage_percentage": 100.0,
+    "missing_hours": 0,
+    "has_full_coverage": true
+  },
+  "duplicate_timestamps": {
+    "count": 0,
+    "percentage": 0.0
+  },
+  "missing_values_summary": {},
+  "numeric_column_ranges": {
+    "temperature": {
+      "min": 25.0,
+      "max": 42.0,
+      "mean": 30.716178617040686,
+      "std": 4.800883585385698,
+      "count": 43848
+    },
+    "is_rain_day": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.25177887246852765,
+      "std": 0.43403982339538577,
+      "count": 43848
+    },
+    "holiday_type_national": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.008210180623973728,
+      "std": 0.09023834698669406,
+      "count": 43848
+    },
+    "holiday_type_religious": {
+      "min": 0.0,
+      "max": 1.0,
+      "mean": 0.013683634373289545,
+      "std": 0.11617530000025227,
+      "count": 43848
+    },
+    "is_lockdown": {
+      "min": 0.0,
+      "max": 0.0,
+      "mean": 0.0,
+      "std": 0.0,
+      "count": 43848
+    },
+    "load_kw": {
+      "min": 16871.0,
+      "max": 148583.0,
+      "mean": 82538.95543696405,
+      "std": 27243.529778938402,
+      "count": 43848
+    }
+  },
+  "target_column_stats": {
+    "column_name": "load_kw",
+    "min": 16871.0,
+    "max": 148583.0,
+    "mean": 82538.95543696405,
+    "std": 27243.529778938402,
+    "null_count": 0
+  },
+  "cleaning_notes": ""
+}

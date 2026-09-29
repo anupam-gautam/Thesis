@@ -1,0 +1,32 @@
+experiments:
+  exp1_horizon:
+    name: "Horizon Sweep"
+    description: "Vary H ∈ {96, 192, 336, 720}; fix L=336"
+    lookback: 336
+    horizons: [96, 192, 336, 720]
+    representation: original
+    models: [dlinear, nlinear, patchtst, itransformer]
+
+  exp2_lookback:
+    name: "Lookback Sweep"
+    description: "Vary L ∈ {96, 192, 336, 720}; fix H=192"
+    lookbacks: [96, 192, 336, 720]
+    horizon: 192
+    representation: original
+    models: [dlinear, nlinear, patchtst, itransformer]
+
+  exp3a_representation:
+    name: "Representation & Stationarity"
+    description: "Branch O vs. Branch D; L=336, H=192"
+    lookback: 336
+    horizon: 192
+    representations: [original, differenced]
+    models: [dlinear, nlinear, patchtst, itransformer]
+
+  exp3b_temporal_shift:
+    name: "Temporal Shift Analysis"
+    description: "Predefine test quarters; analyze error vs. shift"
+    lookback: 336
+    horizon: 192
+    representation: original
+    quarters: [q1, q2, q3, q4]

@@ -1,0 +1,24 @@
+dlinear:
+  d_model: 128
+  moving_avg_kernel: 25
+  individual_channel_weights: false
+
+nlinear:
+  d_model: 128
+  individual_channel_weights: false
+
+patchtst:
+  d_model: 128
+  n_heads: 4
+  n_layers: 2
+  d_ff: 256
+  patch_length: 16
+  stride: 8
+  dropout: 0.1
+
+itransformer:
+  d_model: 128
+  n_heads: 4
+  n_layers: 2
+  d_ff: 256
+  dropout: 0.1
